@@ -1,0 +1,18 @@
+---
+abstract: ~
+author:
+  - 'Chad Granum <exodist7@gmail.com>'
+distribution_type: module
+generated_by: 'Module::Install version 0.77'
+license: gpl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Term-TransKeys
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Term::ReadKey: 2.30
+version: 1.01

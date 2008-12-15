@@ -69,7 +69,7 @@ use Term::ReadKey;
 
 use vars qw($VERSION $KEYMAP);
 
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 #{{{ Keys POD
 
